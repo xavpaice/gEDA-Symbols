@@ -1,4 +1,7 @@
 gEDA-Symbols
 ============
 
-Some symbols for use with gEDA schematic that I couldn't find elsewhere
+Just a few symbols that I needed and had to make, someone
+might find them useful.
+
+Feel free to use/edit/etc, I'd appreciate pull requests.
